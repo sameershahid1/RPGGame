@@ -1,0 +1,19 @@
+﻿  AttributeComponent.cpp
+  EditorState.cpp
+  Entity.cpp
+  Game.cpp
+  GameState.cpp
+  Main.cpp
+  MainMenuState.cpp
+  MovementComponent.cpp
+  Player.cpp
+  PlayerGUI.cpp
+  SettingState.cpp
+  State.cpp
+  TileMap.cpp
+  Generating code
+  58 of 1457 functions ( 4.0%) were compiled, the rest were copied from previous compilation.
+    18 functions were new in current compilation
+    24 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  RPG.vcxproj -> F:\RPG\x64\Release\RPG.exe
