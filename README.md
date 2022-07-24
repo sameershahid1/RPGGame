@@ -1,2 +1,2 @@
 # RPGGame
-This game is not completed yep right know, but will be completed in the near futrue.
+This game is not completed right know, but will be completed in the near futrue.
